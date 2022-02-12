@@ -1,0 +1,25 @@
+00241 0   0   0      Zemzem Mekonen |              |l
+12322 0   0   1      Yonas Abebe |                 |l
+14435 0   0   0      Wakoya |                      |l
+14673 0   0   2      Abdurahman Sadik|             |l
+14674 0   0   0      Hayat sefa|                   |l
+14678 0   0   0      Nesru Sadik|                  |l
+14679 0   0   0      Nesru Mohammed|               |l
+18241 0   0   0      Nesru Kedir |                 |l
+21041 0   0   0      Sintayew |                    |l
+23443 0   0   0      Mame  |                       |l
+30241 0   0   0      Ekram Ahmed |                 |l
+31861 0   0   0      Ashenafi|                     |l
+32251 0   0   0      Remedaan Zeru|                |l
+33041 0   0   0      Mehariw A |                   |l
+38831 0   0   0      Yunus Nurhisen |              |l
+44335 0   0   0      Bealy |                       |l
+55665 0   0   0      Nuredin|                      |l
+70141 0   0   0      Meseret Berihun |             |l
+76564 0   0   0      NK |                          |l
+84151 0   0   0      Meba|                         |l
+84741 0   0   0      Hayat Shukre |                |l
+86691 0   0   0      Desalegn A|                   |l
+87641 0   0   0      Nesren|                       |l
+99641 0   0   0      Oliyad Chala |                |l
+99873 0   0   0      Nesru  |                      |l
