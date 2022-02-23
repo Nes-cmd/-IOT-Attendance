@@ -10,4 +10,4 @@ Since I have ESP8266 in my hand, The code is written for ESP8266. But the device
 
 <img src="demo/prototype.jpg">
 
-## Interested to make product? I am also interested. <a target="new" href="https://Nes-cmd.github.io">Contact me</a>
+## Interested to make product? I am also interested. <a target="new" href="https://Nes-cmd.github.io"> Contact me</a>
