@@ -3,6 +3,6 @@ This project is for general purpose attendance monitoring purpose. General purpo
 
 # The project has two parts.
     
-    ## 1 The website, to monitor data and onfigure the device
+  ## 1 The website, to monitor data and onfigure the device
     
-    ## 2 The ESPxx based hardware. PCB is designed using ESP-32 wrover 
+  ## 2 The ESPxx based hardware. PCB is designed using ESP-32 wrover 
